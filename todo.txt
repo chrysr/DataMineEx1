@@ -1,1 +1,2 @@
 -spelling
+-check for usernames (starting with @)
